@@ -9,7 +9,7 @@
         "chatbot",
         "telegrambot"
     ],
-    "website": "https://github.com/SS7SS/Tepthon",
+    "website": "https://github.com/STKR2/ss",
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
@@ -22,7 +22,7 @@
             "required": true
         },
         "TERMUX": {
-            "description": "كود تيرمكس",
+            "description": "كود ثليثون",
             "value": "",
             "required": true
         },
@@ -33,7 +33,7 @@
         },
         "BOT_USERNAME": {
             "description": "يوزر البوت بدون ـ@ـ",
-            "value": "ss2bot",
+            "value": "حط يوزر البوت",
             "required": true
         }
     }
